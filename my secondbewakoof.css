@@ -1,0 +1,99 @@
+.head{
+    background-color: rgb(235, 241, 241);
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-between;
+    overflow: scrollpadding: 10px;
+    margin: 10px;
+    
+    
+}
+.b{
+    margin-left: 100px;
+}
+.us{
+    
+    margin-left: 6
+    500px;
+}
+#id{
+   margin left: 20px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    width: 100%;
+    background-color: rgb(250, 252, 254);
+    overflow: visible
+    
+}
+.search{
+    height: 20px;
+    width: 100px;
+    flex-grow: calc(10px);
+    display: flex;
+    justify-content: last baseline;
+    align-content: last baseline;
+    background-color: rgb(77, 53, 53);
+    font-style: normal;
+    color: rgb(49, 101, 147);
+    
+    
+}
+.img1{
+    margin-right: 100px;
+}
+.THREE{
+    display: flex;
+    justify-content: space-between;
+    overflow: visible;
+}
+.four{
+    display: flex;
+    padding: 10px;
+    overflow: scroll;
+}
+.five{
+    display:flex;
+    justify-content: space-between;
+    padding: 10PX;
+    
+
+    
+}
+.SIX{
+    display: flex;
+    justify-content: space-between;
+    padding: 0PX;
+}
+.seven{
+    border-radius: 20%;
+    padding: 20px;
+    margin left: 20px;
+    justify-content: space-between;
+    justify-self: center;
+    
+    
+    
+}
+.i{
+   
+    
+   
+}
+.eight{
+    display: flex;
+    justify-content: space-between;
+}
+.nine{
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+    margin: 10px;
+    overflow: scroll;
+    
+}
+    
